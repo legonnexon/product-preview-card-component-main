@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/legonnexon/product-preview-card-component-main.github.io/)
-- Live Site URL: [Add live site URL here](https://github.com/legonnexon/product-preview-card-component-main.github.io/) don't work with vite ;-;
+- Live Site URL: [Add live site URL here](https://legonnexon.github.io/product-preview-card-component-main.github.io/)
 
 ## My process
 
@@ -55,7 +55,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Tailwind](https://tailwindcss.com/) - For styles
 
 
