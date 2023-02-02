@@ -6,7 +6,6 @@ body {
   background-color: hsl(30, 38%, 92%);  
 }
 
-
 @media (min-width: 640px) { 
   .App {
     height: 800px;  
@@ -17,7 +16,6 @@ body {
     justify-content: center;
   }
 }
-
 
 .min-width-300 {
   min-width: 300px;
