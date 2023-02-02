@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { 
+  background-color: hsl(30, 38%, 92%);  
+}
+
+
+@media (min-width: 640px) { 
+  .App {
+    height: 800px;  
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+
+.min-width-300 {
+  min-width: 300px;
+}
+
+.bg-image {
+  display: inline-block;
+  background-image: url('./assets/image-product-desktop.jpg');
+}
+
+.dark-cyan { color: hsl(158, 36%, 37%); }
+.button-active { background-color: rgb(26, 64, 46); }
+.bg-dark-cyan { background: hsl(158, 36%, 37%); }
+.cream { color:hsl(30, 38%, 92%); }
+.very-dark-blue { color:hsl(212, 21%, 14%); }
+.dark-grayish-blue { color:hsl(228, 12%, 48%); }
+
+.font-fraunces {
+  font-family: 'Fraunces', serif;  
+}
+  
+.title {
+  font-weight: 900;
+  font-size: 2.1rem;
+}
+
+.text-xs {
+  font-size: 0.8rem;
+}
+
+.text-32xl {
+  font-size: 1.9rem;
+}
+
+.sub-title {
+  height: 2rem;
+}
+
+.font-montserrant {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-sxm {
+  font-size: 0.95rem;
+}
